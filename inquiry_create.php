@@ -72,6 +72,6 @@ if ($status == false) {
     echo json_encode(["error_msg" => "{$error[2]}"]);
     exit();
 } else {
-    header("Location:inquiry_read.php");
+    header("Location:thanks.php");
     exit();
 }

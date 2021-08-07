@@ -1,0 +1,27 @@
+@charset "utf-8";
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+}
+
+form{
+    width:100%;
+}
+
+.thanks{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+/*=========TOPIC===============*/
